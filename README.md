@@ -26,12 +26,14 @@ Jadi Project yang saya buat adalah membuat company profile penjualan baju,mengap
 
 ## 3. Pages Product
 
-![Macbook-Air-localhost (14)](https://github.com/user-attachments/assets/143936f9-cb46-4da8-a9e2-96680db498f3)
+![Macbook-Air-localhost (14)](https://github.com/user-attachments/assets/8452e604-00a8-4b38-a8d1-a9cd6f820e1e)
+
 
 ## 4. responsive
 
+https://github.com/user-attachments/assets/269f256f-9d7b-44f5-ab05-344fa369ef6b
 
-https://github.com/user-attachments/assets/df5b4d8d-c7ac-4b0a-8d39-fc3920cba223
+
 
 
 
