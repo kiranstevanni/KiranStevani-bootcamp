@@ -12,23 +12,17 @@ Jadi Project yang saya buat adalah membuat company profile penjualan baju,mengap
 * API https://fakestoreapi.com/
 
 ## 1. Pages utama
+![Macbook-Air-localhost (22)](https://github.com/user-attachments/assets/14193ae0-46a9-46ae-a769-3eded5edf12a)
+![Macbook-Air-localhost (23)](https://github.com/user-attachments/assets/e9b02839-4632-45a1-8aac-086bfe6455ed)
+![Macbook-Air-localhost (24)](https://github.com/user-attachments/assets/823c28ab-3bc0-48e7-856e-b509ce6e72a3)
 
-![Macbook-Air-localhost (22)](https://github.com/user-attachments/assets/df738742-9f8d-463c-9535-9f88031fb06a)
-
-![Macbook-Air-localhost (23)](https://github.com/user-attachments/assets/4f363c4c-0f2a-406f-8f83-c6979d8956f0)
-
-![Macbook-Air-localhost (24)](https://github.com/user-attachments/assets/6872ee6f-bb4c-449b-af58-d92f8489df8d)
 
 
 ## 2. Pages About
-
-![Macbook-Air-localhost (25)](https://github.com/user-attachments/assets/6f3493d2-bed4-42ed-8dc3-272d0ff4ec38)
-
-![Macbook-Air-localhost (26)](https://github.com/user-attachments/assets/4b5cd106-c120-40b1-a186-79df1bf9bc60)
+![Macbook-Air-localhost (25)](https://github.com/user-attachments/assets/f96d633a-9df7-4ecd-992c-51ccdaf0e23c)
+![Macbook-Air-localhost (26)](https://github.com/user-attachments/assets/33c10060-5051-4a23-9e17-6d6a2af5c5e4)
 
 
-
-![Macbook-Air-localhost (12)](https://github.com/user-attachments/assets/91b543e4-f51f-4c4c-93e2-44bb87c05f47)
 
 ## 3. Pages Product
 
